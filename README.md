@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full Stack Flutter Developer with a strong passion for building cross-platform mobile applications. While my core expertise lies in designing beautiful and scalable frontend architectures with Flutter, I also possess a solid foundational knowledge of backend technologies including Node.js, Express.js, and MongoDB to build end-to-end applications
+🚀 About Me:📱 Frontend: Advanced knowledge in Flutter & Dart (State Management, Clean Architecture).⚙️ Backend: Foundational skills in Node.js & Express.js.💾 Database: Basic experience with MongoDB.🎯 Goal: Building seamless, full-stack mobile experiences from scratch.
 
 
 ## 🌐 Socials:
