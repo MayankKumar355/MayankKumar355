@@ -1,5 +1,8 @@
 # 💫 About Me:
-🚀 About Me:📱 Frontend: Advanced knowledge in Flutter & Dart (State Management, Clean Architecture).⚙️ Backend: Foundational skills in Node.js & Express.js.💾 Database: Basic experience with MongoDB.🎯 Goal: Building seamless, full-stack mobile experiences from scratch.
+🚀 About Me:📱 Frontend: Advanced knowledge in Flutter & Dart (State Management, Clean Architecture).
+⚙️ Backend: Foundational skills in Node.js & Express.js.
+💾 Database: Basic experience with MongoDB.
+🎯 Goal: Building seamless, full-stack mobile experiences from scratch.
 
 
 ## 🌐 Socials:
